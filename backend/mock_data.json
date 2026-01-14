@@ -1,0 +1,39 @@
+[
+  {
+    "user_id": "user_101",
+    "name": "Dr. Sarah Miller",
+    "session_events": [
+      "login",
+      "navigate_to_upload",
+      "upload_file_start",
+      "error_file_format_wav",
+      "retry_upload",
+      "error_file_format_wav",
+      "logout"
+    ]
+  },
+  {
+    "user_id": "user_102",
+    "name": "Dr. James Chen",
+    "session_events": [
+      "login",
+      "view_dashboard",
+      "click_create_template",
+      "cancel_create_template",
+      "click_create_template",
+      "help_page_search_templates",
+      "logout"
+    ]
+  },
+  {
+    "user_id": "user_103",
+    "name": "Dr. Emily R.",
+    "session_events": [
+      "login",
+      "record_session_start",
+      "mic_permission_denied",
+      "mic_permission_denied",
+      "logout"
+    ]
+  }
+]
